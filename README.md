@@ -64,6 +64,6 @@ Este playbook asegura que el archivo descargado coincide con un hash específico
 
 ---
 
-## Capturas
-(Aquí debes agregar capturas del playbook ejecutándose y del resultado obtenido en el nodo remoto)
+## Autor
+Hugo Lucena
 
