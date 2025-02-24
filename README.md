@@ -26,6 +26,10 @@ Este playbook descarga un archivo desde una URL pública y lo guarda en el direc
         url: https://example.com/archivo.tar.gz
         dest: /tmp/archivo.tar.gz
 ```
+---
+![Imagen 1](/img/1.png)  
+![Imagen 2](/img/2.png)
+---
 
 ### Ejemplo 2: Descargar un archivo con autenticación
 Este playbook descarga un archivo desde una URL que requiere autenticación básica.
@@ -55,6 +59,9 @@ Este playbook asegura que el archivo descargado coincide con un hash específico
         dest: /usr/local/src/software.deb
         checksum: sha256:3a7bd3a6b7d4f3b56e5f4e634f1837c5d4d8e3b6e5a2f4c6f5b6e7f6d9a4b3c2
 ```
+---
+![Imagen 3](/img/3.png)  
+![Imagen 4](/img/4.png)
 
 ---
 
